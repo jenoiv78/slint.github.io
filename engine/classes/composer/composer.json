@@ -1,0 +1,17 @@
+{
+    "require": {
+        "intervention/image": "^2.6",
+        "league/flysystem": "^2.2",
+        "league/flysystem-sftp-v3": "2.x-dev",
+        "league/flysystem-ftp": "^2.2",
+        "league/flysystem-memory": "^2.0",
+        "league/flysystem-aws-s3-v3": "^2.0",
+        "tinify/tinify": "^1.5",
+        "melbahja/seo": "^2.0"
+    },
+    "config": {
+		"platform": {
+			"php": "7.2.0"
+		}
+    }
+}
